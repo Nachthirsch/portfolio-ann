@@ -32,22 +32,22 @@
       <section id="home" class="flex items-center justify-center p-8 min-h-[90vh]">
         <div class="text-center text-[#ff9b55] max-w-3xl mx-auto">
           <!-- Main Identity -->
-          <div class="mb-36 relative">
-            <!-- Typographic decorations -->
-            <div class="absolute -top-32 left-1/2 transform -translate-x-1/2 opacity-10 text-[200px] font-thin font-playfair select-none">A</div>
+          <div class="mb-32 relative">
+            <!-- Typographic decorations - more precise positioning -->
+            <div class="absolute -top-28 left-1/2 transform -translate-x-1/2 opacity-8 text-[220px] font-extralight font-playfair select-none pointer-events-none">A</div>
 
-            <!-- Main Title -->
-            <h1 class="text-7xl md:text-9xl font-thin tracking-[0.5em] relative font-playfair mb-6">ANN</h1>
+            <!-- Main Title - improved tracking and font weight -->
+            <h1 class="text-6xl md:text-8xl font-extralight tracking-[0.6em] relative z-10 font-playfair mb-5">ANN</h1>
 
-            <!-- Typographic line -->
-            <div class="flex items-center justify-center mb-16 mt-10 opacity-70">
-              <div class="w-16 h-[1px] bg-[#ff9b55]"></div>
-              <div class="mx-4 text-xs tracking-[0.8em] uppercase font-work-sans">•</div>
-              <div class="w-16 h-[1px] bg-[#ff9b55]"></div>
+            <!-- Typographic line - more refined dimensions -->
+            <div class="flex items-center justify-center mb-14 mt-8 opacity-60">
+              <div class="w-14 h-[0.5px] bg-[#ff9b55]"></div>
+              <div class="mx-3 text-xs tracking-[0.8em] uppercase font-work-sans text-[#ffce9e]">•</div>
+              <div class="w-14 h-[0.5px] bg-[#ff9b55]"></div>
             </div>
 
-            <!-- Professional Title -->
-            <h2 class="text-sm md:text-base font-light tracking-[0.6em] text-[#ffba86] opacity-80 font-work-sans uppercase">Artist & Storyteller</h2>
+            <!-- Professional Title - refined tracking and color -->
+            <h2 class="text-xs md:text-sm font-light tracking-[0.7em] text-[#ffba86] opacity-75 font-work-sans uppercase">Artist & Storyteller</h2>
           </div>
 
           <!-- Minimal Statement -->
@@ -111,7 +111,7 @@
               </div>
               <div class="mt-8 text-center">
                 <div class="w-8 h-0.5 bg-[#fb7b4c] mx-auto mb-4"></div>
-                <h3 class="text-xs font-light text-[#ff9b55] tracking-[0.3em] uppercase opacity-70 font-work-sans">01</h3>
+                <h3 class="text-xs font-light text-[#ff9b55] tracking-[0.3em] uppercase opacity-70 font-work-sans">Sketches of Astarion</h3>
               </div>
             </div>
 
@@ -126,7 +126,7 @@
               </div>
               <div class="mt-8 text-center">
                 <div class="w-8 h-0.5 bg-[#fb7b4c] mx-auto mb-4"></div>
-                <h3 class="text-xs font-light text-[#ff9b55] tracking-[0.3em] uppercase opacity-70 font-work-sans">02</h3>
+                <h3 class="text-xs font-light text-[#ff9b55] tracking-[0.3em] uppercase opacity-70 font-work-sans">Raging Embrace (MessmerxWapa's OC)</h3>
               </div>
             </div>
 
@@ -137,7 +137,7 @@
               </div>
               <div class="mt-8 text-center">
                 <div class="w-8 h-0.5 bg-[#fb7b4c] mx-auto mb-4"></div>
-                <h3 class="text-xs font-light text-[#ff9b55] tracking-[0.3em] uppercase opacity-70 font-work-sans">03</h3>
+                <h3 class="text-xs font-light text-[#ff9b55] tracking-[0.3em] uppercase opacity-70 font-work-sans">Druvis Weyerhauser</h3>
               </div>
             </div>
 
@@ -152,7 +152,7 @@
               </div>
               <div class="mt-8 text-center">
                 <div class="w-8 h-0.5 bg-[#fb7b4c] mx-auto mb-4"></div>
-                <h3 class="text-xs font-light text-[#ff9b55] tracking-[0.3em] uppercase opacity-70 font-work-sans">04</h3>
+                <h3 class="text-xs font-light text-[#ff9b55] tracking-[0.3em] uppercase opacity-70 font-work-sans">The Druid</h3>
               </div>
             </div>
           </div>
