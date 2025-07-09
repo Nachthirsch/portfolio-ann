@@ -166,13 +166,11 @@
     <!-- Minimalist Footer -->
     <footer class="py-16 text-center">
       <div class="w-12 h-0.5 bg-[#ff9b55] bg-opacity-30 mx-auto mb-8"></div>
-      <p class="text-xs font-light text-[#ff9b55] opacity-50 tracking-[0.4em] uppercase font-work-sans mb-12">Ann © 2024</p>
-      
+      <p class="text-xs font-light text-[#ff9b55] opacity-50 tracking-[0.4em] uppercase font-work-sans mb-12">Ann © 2025</p>
+
       <!-- Personal Statement -->
       <div class="max-w-md mx-auto px-8">
-        <p class="text-[10px] italic text-[#ffba86] opacity-40 font-light tracking-wider font-crimson leading-relaxed">
-          "I'm hot, I'm furry, I have a belief in neo-paganism"
-        </p>
+        <p class="text-[10px] italic text-[#ffba86] opacity-40 font-light tracking-wider font-crimson leading-relaxed">"I'm hot, I'm furry, I have a belief in neo-paganism"</p>
       </div>
     </footer>
 
